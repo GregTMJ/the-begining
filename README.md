@@ -1,3 +1,4 @@
 # the-begining
 my first code
-I love :piano ,:pizza and :coffee
+
+My wish is to become good at something, well, I hope to be good enough here! 
